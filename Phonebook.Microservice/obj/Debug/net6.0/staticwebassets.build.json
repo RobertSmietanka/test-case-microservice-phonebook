@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wucwtb25garzmPysoJxaYpP0CyyP/UMgfR3V1ZR+8Ls=",
+  "Source": "Phonebook.Microservice",
+  "BasePath": "_content/Phonebook.Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

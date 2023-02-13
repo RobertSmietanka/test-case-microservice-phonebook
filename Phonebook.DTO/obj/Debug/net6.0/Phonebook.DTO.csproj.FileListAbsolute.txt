@@ -1,0 +1,12 @@
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/bin/Debug/net6.0/Phonebook.DTO.deps.json
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/bin/Debug/net6.0/Phonebook.DTO.dll
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/bin/Debug/net6.0/Phonebook.DTO.pdb
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/Phonebook.DTO.csproj.AssemblyReference.cache
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/Phonebook.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/Phonebook.DTO.AssemblyInfoInputs.cache
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/Phonebook.DTO.AssemblyInfo.cs
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/Phonebook.DTO.csproj.CoreCompileInputs.cache
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/Phonebook.DTO.dll
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/refint/Phonebook.DTO.dll
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/Phonebook.DTO.pdb
+/Users/robert/Desktop/Phonebook/Phonebook.DTO/obj/Debug/net6.0/ref/Phonebook.DTO.dll
